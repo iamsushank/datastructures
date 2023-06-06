@@ -20,16 +20,11 @@
 # Go workspace file
 go.work
 
-*.idea/.gitignore
-*.idea/ds.iml
-*.idea/modules.xml
-*.idea/vcs.xml
-
+# Ignore files for Git
 .gitignore
+
+# IntelliJ IDEA files
 ds.iml
 modules.xml
 vcs.xml
-*.gitignore
-*ds.iml
-*modules.xml
-*vcs.xml
+
