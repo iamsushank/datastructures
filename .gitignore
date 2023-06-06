@@ -24,3 +24,12 @@ go.work
 *.idea/ds.iml
 *.idea/modules.xml
 *.idea/vcs.xml
+
+.gitignore
+ds.iml
+modules.xml
+vcs.xml
+*.gitignore
+*ds.iml
+*modules.xml
+*vcs.xml
